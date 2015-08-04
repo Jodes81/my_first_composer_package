@@ -1,0 +1,8 @@
+{
+    "name": "jodes/my-first-composer-package",
+    "autoload": {
+        "psr-0" : {
+            "Jodes\\MyFirstComposerPackage" : "src"
+        }
+    }
+}
